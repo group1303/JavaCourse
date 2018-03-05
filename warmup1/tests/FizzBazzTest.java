@@ -1,4 +1,7 @@
-package warmup1;
+package warmup1.tests;
+
+import warmup1.FizzBuzz;
+import warmup1.SimpleUnit;
 
 public class FizzBazzTest {
     public static void main(String[] args) {
